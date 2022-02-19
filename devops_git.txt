@@ -1,1 +1,1 @@
-This is first file in commiting in git.
+This is first file in commiting in GIT.
